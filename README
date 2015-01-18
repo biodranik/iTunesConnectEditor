@@ -1,0 +1,21 @@
+# iTunes Connect Metadata Editor and Screenshots Uploader
+
+This tool was designed to make an app update process easier:
+ - Change any textual information about your app for any app localization language
+ - Easily upload custom screenshots for any app localization language
+
+## HOW TO USE:
+ 1. You need to install Application Loader from Apple either by installing XCode or by checking instructions here: http://help.como.com/Submit-My-App
+ 2. Fetch info about the app which needs to be updated (updated version should be already added in iTunesConnect).
+ 3. Edit any info and drag any new screenshots (I would recommend to put screenshots into language-folders, the app will automatically detect their size and the device).
+ 4. Upload :)
+
+## ISSUES (hope to fix them in the future):
+ - For now, the app freezes when uploads all information, but don't worry - it actually uploads everything.
+ - I would recommend to launch it from console (Terminal app) to see actual logs and what is going on under the hood.
+
+## Contact
+You can reach me@alex.bio
+
+With best regards,
+Alexander Zolotarev
